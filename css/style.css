@@ -1,0 +1,206 @@
+style.css
+body{
+    font-size: 18px;
+	font-weight: 600;
+	font-family: Public Sans;
+    background: hsl(193, 100, 96%);
+}
+._header{
+    height: 80px;
+    margin-bottom: -20px;
+    font-size: 18px;
+	font-weight: 600px;
+	font-family: Public Sans;
+	background: hsl(193, 100%, 96%);
+}
+._bot-1{
+    float: right;
+    margin-right: 50px;
+    border-radius: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+._p-1{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    /* text-size-adjust: 6px; */
+}
+.container{
+    padding: 20px;
+}
+.container_card{
+    margin-left: -20px;
+    margin-right: -20px;
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid blue;
+    padding: 20px 40px 40px;
+    max-width: 8000px;
+    max-height: 500px;
+    background-color: hsl(193, 100%, 96%);
+}
+.container_text{
+    display: inline-block;
+    width: 1000px;
+    position: relative;
+    vertical-align: top;
+    bottom: 0px;
+    top: 50px;
+}
+.container_img{
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    margin-right: 50px;
+    /* margin: 20px 30px 0 0; */
+}
+.img-2{
+    width: 100%;
+
+}
+._bot-2{
+    border-radius: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 35px;
+    padding-right: 35px;
+    color: white;
+    background-color: hsl(322, 100%, 66%);
+}
+.container-1{
+    padding: 60px;
+}
+.container_card-1{
+    margin-top: -6.8%;
+    margin-left: -40px;
+    margin-right: -40px;
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid green;
+    padding: 20px 40px 40px;
+    max-width: 10000px;
+    max-height: 365px;
+    background-color: hsl(193, 100%, 96%);
+}
+.container_text-1{
+    display: inline-block;
+    width: 1000px;
+    position: relative;
+    vertical-align: top;   
+    bottom: 0px;
+    margin-top: 150px;
+}
+.container_img-1{
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    padding-top: 100px;
+    margin-right: 50px;
+    margin-top: -100px;
+    /* margin: 20px 30px 0 0; */
+}
+.container_img-1{
+    margin-top: -50px;
+}
+.img-3{
+    width: 100%;
+}
+.container-2{
+    padding: 60px;
+}
+.container_card-2{
+    margin-top: -10.8%;
+    margin-left: -40px;
+    margin-right: -40px;
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid red;
+    padding: 20px 40px 40px;
+    max-width: 10000px;
+    max-height: 400px;
+    background-color: hsl(193, 100%, 96%);
+}
+.container_text-2{
+    display: inline-block;
+    width: 600px;
+    position: relative;
+    vertical-align: bottom;
+    bottom: 0px;
+    top: 80px;
+    margin-right: -150px;
+}
+.container_img-2{
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    padding-top: 40px;
+    margin-right: 50px;
+    /* margin: 20px 30px 0 0; */
+}
+.container_img-2{
+    margin-top: -50px;
+}
+.img-4{
+    width: 100%;
+}
+.container-3{
+    padding: 60px;
+}
+.container_card-3{
+    margin-top: -10.8%;
+    margin-left: -40px;
+    margin-right: -40px;
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid red;
+    padding: 20px 40px 40px;
+    max-width: 10000px;
+    max-height: 850px;
+    background-color: hsl(193, 100%, 96%);
+}
+.container_text-3{
+    display: inline-block;
+    width: 600px;
+    position: relative;
+    vertical-align: bottom;
+    bottom: 0px;
+    top: 80px;
+    margin-right: -50px;
+    margin-top: 158px;
+}
+.container_img-3{
+    display: inline-block;
+    vertical-align: top;
+    width: -20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    margin-right: -160px;
+    margin-top: 10px;
+    margin-left: -30px;
+    margin-bottom: 100px;
+    /* margin: 20px 30px 0 0; */
+}
+.container_img-3{
+    margin-top: -50px;
+}
+.img-5{
+    
+}
+/* h1._p1-h1{ 
+    position: relative;
+	top: 91px;
+    left: 100px;
+    height: 100px;
+    width: 100px;
+   
+    right: 50px;
+}
+._p2{
+    white-space: nowrap;
+	position: relative;
+	top: 96px;
+	left: 123px;
+}
